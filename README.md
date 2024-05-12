@@ -3,8 +3,7 @@
 
 <h3>Барање 2: Control Flow Graph</h3>
 
-![CFG link](https://github.com/dariyozz/SI_2024_lab2_222015/assets/134236483/d6e7af27-ae6f-4610-9c48-1d039f4dbe22)
-
+![CFG link](https://github.com/dariyozz/SI_2024_lab2_222015/assets/134236483/bf8fd377-d4cb-4b8c-9554-8d3b14a21a96)
 
 <h3>Барање 3: Цикломатска комплексност</h3>
 <p>Цикломатска комплексност е 14, а тое може да се добие на повеќе начини, јас ја добив така што ги изброив регионите.</p>
