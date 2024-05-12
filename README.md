@@ -2,7 +2,9 @@
 <h2>Дарио Јаковлески бр. на индекс 222015</h2>
 
 <h3>Барање 2: Control Flow Graph</h3>
-![SI_lab2 drawio](https://github.com/dariyozz/SI_2024_lab2_222015/assets/134236483/56e385af-ce63-42fb-b480-56ddc74dda48)
+
+![CFG link](https://github.com/dariyozz/SI_2024_lab2_222015/assets/134236483/d6e7af27-ae6f-4610-9c48-1d039f4dbe22)
+
 
 <h3>Барање 3: Цикломатска комплексност</h3>
 
