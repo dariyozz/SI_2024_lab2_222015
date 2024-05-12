@@ -17,5 +17,13 @@
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)
 == '0')</h3>
 
+Test Case	item.getPrice() > 300 |	item.getDiscount() > 0	| item.getBarcode().charAt(0) == '0'  
+  1	      True	    True	    True	
+  2	      False	      X	        X	 
+  3	      True	    False    	  X	
+  4	      True	    True    	False	
+
+  <p>Прв случај сите услови се точни,кај вториот случај што првиот е false бидејќи условот е && одма ислага со false,третиот случај слично но само за вториот услов, и четвртио случај последниот услов е грешен и враќа false </p>
+  
 <h3>Барање 6: Објаснување на напишаните unit tests</h3>
 
