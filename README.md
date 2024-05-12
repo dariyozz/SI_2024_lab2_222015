@@ -17,6 +17,42 @@
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)
 == '0')</h3>
 
+<table>
+  <thead>
+    <tr>
+      <th>Test Case</th>
+      <th>item.getPrice() &gt; 300</th>
+      <th>item.getDiscount() &gt; 0</th>
+      <th>item.getBarcode().charAt(0) == '0'</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>True</td>
+      <td>True</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>False</td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>True</td>
+      <td>False</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+  </tbody>
+</table>
 Test Case	item.getPrice() > 300 |	item.getDiscount() > 0	| item.getBarcode().charAt(0) == '0'  
   1	      True	    True	    True	
   2	      False	      X	        X	 
